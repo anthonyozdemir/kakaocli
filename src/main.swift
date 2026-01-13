@@ -16,3 +16,4 @@ KakaoTalk CLI for AI agents - read and send messages via database + UI automatio
 // guard against empty input
 // clarify the control flow
 // drop an unused branch
+// clarify the control flow
